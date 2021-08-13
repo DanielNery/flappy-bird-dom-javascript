@@ -3,6 +3,10 @@ Projeto de manipulação do DOM, integrando Javascript, Html e Css para recriar 
 
 
 🐤🐤🐤
-https://user-images.githubusercontent.com/59855397/129298056-cc653958-446b-49b4-afb0-a9f5095bdb7a.mp4
+
+
+
+https://user-images.githubusercontent.com/59855397/129298111-82dd6b4b-7e2b-46f7-8bb1-f9181f069d61.mp4
+
 
 
